@@ -1,0 +1,26 @@
+.home {
+	position: absolute;
+	height: 100vh;
+	display: flex;
+	width: 100%;
+	z-index: 2;
+}
+
+.content {
+	height: 73vh;
+	margin-top: 27vh;
+	width: 100%;
+}
+
+.header {
+	height: 35%;
+}
+
+.active {
+	color: rgb(3, 172, 223);
+	background: rgb(210, 210, 210);
+}
+
+.text-active {
+	color: rgb(3, 172, 223);
+}
